@@ -1,3 +1,5 @@
+** start of undefined **
+
 <!DOCTYPE html> <!-- Doctype indique que c'est une page html -->
 <html lang="en"> <!-- définis la langue du document html en anglais  -->
     <head>
@@ -60,3 +62,24 @@
 
     </footer>
 </html>
+
+
+** end of undefined **
+
+** start of undefined **
+
+body {
+    background-color: rgb(41, 41, 65);
+    color:white; 
+    width: 100%;
+    height: 100vh; 
+    margin: 0;
+}
+
+label {
+    display: block;
+    margin: 0.5rem 0;
+  }
+
+** end of undefined **
+
